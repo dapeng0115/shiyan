@@ -1,0 +1,43 @@
+.hbanner {position:relative;text-align: center; margin-top: 80px; height: 458px; width: 100%; background: url(../images/hbanner.jpg) no-repeat; background-size: 100% auto;}
+.hbanner .title1 {padding-top: 60px; margin: 0 auto; width: 468px; height: 36px; background: url(../images/hwtgwenz.png) no-repeat 0px 60px; background-size: 100% auto;}
+.hbanner .title2 { line-height: 60px; font-size:26px;color: #018c81;}
+.hbanner .title { color: #018c81; font-size: 18px;}
+.hbanner .title p{ color: #fff;}
+.hbanner .con1 {position: absolute; top:244px;left:375px;}
+.hbanner .con2 {position: absolute; top:276px;left:558px;}
+.hbanner .con3 {position: absolute; top:354px;left:400px;}
+.hbanner .con4 {position: absolute; top:305px;left:-32px;}
+.con {padding: 58px 0px 66px;}
+.work{padding: 58px 0px 0px;}
+.con .mainInfo { display: block;}
+.NativeaAd {background: #f9f9f9;}
+.NativeaAd .container {width: 1000px;}
+.NativeaAd ul {clear: both; margin-top: 60px;}
+.NativeaAd li {float: left; width: 33.33%;height: 300px; text-align: center;}
+.NativeaAd li span{display: block; margin-top: 18px; font-size:22px; line-height: 42px;}
+.NativeaAd li p{width: 352px; margin: 0 auto; line-height: 22px;font-size: 14px;}
+.NativeaAd li div{ width: 105px; height: 105px; margin: 0 auto;}
+.NativeaAd .iconA{background: url(../images/hicon1.png) no-repeat; background-size: 100%;}
+.NativeaAd .iconB{background: url(../images/hicon2.png) no-repeat; background-size: 100%;}
+.NativeaAd .iconC{background: url(../images/hicon3.png) no-repeat; background-size: 100%;}
+.NativeaAd .iconD{background: url(../images/hicon4.png) no-repeat; background-size: 100%;}
+.NativeaAd .iconE{background: url(../images/hicon5.png) no-repeat; background-size: 100%;}
+.NativeaAd .iconF{background: url(../images/hicon6.png) no-repeat; background-size: 100%;}
+.service {border-bottom: 1px solid #bfbfbf;}
+.service ul { clear: both; margin-top: 108px;}
+.service li{ width: 25%; float: left; text-align: center;}
+.service li div{ width: 105px; height: 105px; margin: 0 auto;}
+.service li p { margin-top: 38px; line-height: 24px;font-size: 18px;}
+.service .iconA {background: url(../images/xicon01.png) no-repeat; background-size: 100%;}
+.service .iconB {background: url(../images/xicon02.png) no-repeat; background-size: 100%;}
+.service .iconC {background: url(../images/xicon03.png) no-repeat; background-size: 100%;}
+.service .iconD {background: url(../images/xicon04.png) no-repeat; background-size: 100%;}
+.tel {position: relative; padding: 105px 0px; text-align: center;}
+.tel .btn { cursor: pointer; margin: 0 auto; border-radius: 86px; text-align: center; color: #449aed;font-size: 30px; padding: 0px 40px; display: inline-block; height: 86px; line-height: 86px; border: 2px solid #449aed;}
+.tel .btn:hover { background: #449aed; color: #fff;}
+.tel_pop {display: none; position: absolute;z-index:7; top:-480px; left:50%;background: #fff; width: 730px; height: 540px; margin-left: -365px; border-radius: 10px;}
+.tel_pop .col { cursor: pointer; position: absolute; background: url(../images/cha.png) no-repeat; right: 30px; top: 30px; width: 20px; height: 20px;}
+.tel_pop img { display: block; margin: 100px auto 0;}
+.tel_pop p{text-align: center;line-height: 140px;font-size: 24px;}
+.tel_pop i {position: absolute;top:540px;left:50%; margin-left: -20px; border-left: 20px solid transparent;border-right: 20px solid transparent;border-top: 20px solid #fff;}
+.telpopbg {z-index:6;display: none; width: 100%; height: 100%; position: fixed;top: 0; left:0; background: #000; opacity: 0.5;}

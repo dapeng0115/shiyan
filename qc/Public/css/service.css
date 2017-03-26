@@ -1,0 +1,46 @@
+
+.wuyong{height: 80px;}
+.content{position:relative;text-align:center;width:100%;height:490px;background:url(../images/servicebg.jpg) no-repeat;background-size: 100% 100%;}
+.content .main{width: 1024px;margin:0px auto 0;position: relative;}
+.content .logo{width: 405px;height: 178px;background:url(../images/servicelogo.png) no-repeat;background-size: 100% 100%;position: absolute;top: 140px;left:80px;}
+.content .phone{width: 391px;height: 315px;background:url(../images/servicesj.png) no-repeat;background-size: 100% 100%;position: absolute;top: 74px;right:80px;}
+
+.product{padding:58px 0px 70px 0px;text-align:center;background:#fff;width: 100%;position: relative;height: 430px;}
+.product .main{width: 1000px;position: relative;margin: 0 auto;height: 300px;}
+.product .img{width: 355px;height: 292px;background:url(../images/servicedata.png) no-repeat;background-size: 100% 100%;position: absolute;top: 0px;left:130px;}
+.product ul{position: absolute;top: -14px;left:488px;}
+.product li{position: relative;text-align: left;margin-bottom: 12px;}
+.product i{font-size: 36px;color: #459bed;text-align: left;}
+.product span{font-size: 18px;color: #4c4c4c;}
+.product b{font-size: 18px;color: #459bed;position: absolute;top: 0px;right:0px;}
+
+.technology{width: 100%;height: auto;background: #f7f7f7;padding:58px 0px 70px 0px;text-align:center;}
+.technology ul{width: 1000px;margin: 90px auto 0;}
+.technology li{width:272px;margin: 0 30px;}
+.technology li div{width: 128px;height: 128px;background: url(../images/analyda.png) no-repeat;background-size: 100% 100%;margin: 0 auto;}
+.technology li p{color: #4c4c4c;font-size: 18px;margin-top: 40px;}
+.technology li span{color: #ec6941;font-size: 27px;}
+
+.news{position:relative;width:100%;height:500px;background-color:#000;background-image:url(../images/analybgB.jpg); background-attachment:fixed;background-repeat:no-repeat;background-position:top center;background-size:100% 100%;}
+.news .container{width:100%;overflow: hidden;}
+.news .tit{color: #fff;font-size: 26px;text-align: center;margin-top: 160px;}
+.news .inpuGroup{width: 500px;height: 50px;margin: 50px auto 0;border-radius: 5px;background: #e4e4e4;position: relative;}
+.news .inpuGroup input{font-size: 20px;position: absolute;top: 11px;left: 14px;font-family: "微软雅黑";width: 86%;color: #808080;background: #e4e4e4;}
+.news .inpuGroup span{width: 50px;height:50px;position: absolute;right: 0px;cursor: pointer;}
+.news .inpuGroup span a{display: block;width: 100%;height: 100%;}
+.news .inpuGroup span div{width: 35px;height:35px;background:url(../images/search.png) no-repeat center;position: absolute;top: 6px;left: 4px;cursor: pointer;background-size: 100% 100%;}
+.news .inpuGroup i{width: 20px;height: 20px;position: absolute;top: 18px;right: 75px;background: #fff;}
+
+.contactus{width: 100%;height: 220px;background: #fff;position: relative;}
+.contactus p{color: #459bed;font-size: 22px;width: 400px;border: 1px solid #459bed;height: 68px;line-height: 68px;text-align: center;border-radius: 34px;margin: 140px auto;cursor: pointer;}
+.contactus div{width: 30px;height: 30px;background: #fff;position: absolute;bottom: -15px;left: 50%;margin-left: -15px;border-radius: 50%;z-index: 9999;}
+
+@media (min-width: 1024px) and (max-width:1199px ) {
+
+}
+@media (min-width: 1200px) and (max-width:1439px ) {
+
+}
+@media (min-width: 1440px) and (max-width:1920px ) {
+
+}
